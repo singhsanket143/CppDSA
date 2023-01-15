@@ -1,0 +1,7 @@
+1. To print the numbers from 1 to 20 in reverse order.
+
+2. To print the product of numbers from 1 to 10
+
+3. To print the first 10 even numbers starting from 2
+
+4. To print the first 14 odd numbers starting from 3
