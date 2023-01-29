@@ -27,6 +27,9 @@
     - Space Complexity
     - (Recursive time complexity will be discussed post recursion)
 - Recursion
+    - Factorial
+    - Power unoptimised
+    - Power optimised
 - Backtracking
 - Sorting
     - Bubble
