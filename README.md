@@ -29,14 +29,16 @@
     - Space Complexity
     - (Recursive time complexity will be discussed post recursion)
 - Recursion
-    - Factorial
-    - Power unoptimised
-    - Power optimised
-    - Fibonacci
-    - Print Increasing
-    - Print Decreasing
-    - Sum of digits recursive
-    - Count binary strings without consecutive 1s
+    - Part 1 (Basic Fundamentals of Recursion)
+        - Factorial
+        - Power unoptimised
+        - Power optimised
+        - Fibonacci
+        - Print Increasing
+    - Part 2 (Problem Solving On Basic Recursion)
+        - Print Decreasing
+        - Sum of digits recursive
+        - Count binary strings without consecutive 1s
 - Backtracking
 - Sorting
     - Bubble
