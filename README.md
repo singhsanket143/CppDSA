@@ -17,6 +17,8 @@
 
 ## DSA
 
+### Problem Count - 8 (excluding TNC)
+
 - Time and Space Complexity
 
     - Experimental Analysis
@@ -30,6 +32,11 @@
     - Factorial
     - Power unoptimised
     - Power optimised
+    - Fibonacci
+    - Print Increasing
+    - Print Decreasing
+    - Sum of digits recursive
+    - Count binary strings without consecutive 1s
 - Backtracking
 - Sorting
     - Bubble
