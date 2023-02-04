@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 12 (excluding TNC)
+### Problem Count - 14 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -48,6 +48,11 @@
         - Is Array arranged in asc order ?
         - Sum of digits of a string
         - [Assignment](/DSA/Recursion/Part%203/Assignment.md)
+
+    - Part 4 (Printing technique of recursion)
+        - Maze_path print
+        - Maze_path count
+        - [Addignment](/DSA/Recursion/Part%204/Assignment.md)
 
 - Backtracking
 - Sorting
