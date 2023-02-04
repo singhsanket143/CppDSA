@@ -39,6 +39,7 @@
         - Print Decreasing
         - Sum of digits recursive
         - Count binary strings without consecutive 1s
+        - Frog Jump
         - [Assignment](DSA/Recursion/Part%202/Assignment.md)
 - Backtracking
 - Sorting
