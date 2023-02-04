@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 8 (excluding TNC)
+### Problem Count - 12 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -41,6 +41,14 @@
         - Count binary strings without consecutive 1s
         - Frog Jump
         - [Assignment](DSA/Recursion/Part%202/Assignment.md)
+
+    - Part 3 (Array based recursion)
+        - Sum of array
+        - Element existing in array or not
+        - Is Array arranged in asc order ?
+        - Sum of digits of a string
+        - [Assignment](/DSA/Recursion/Part%203/Assignment.md)
+
 - Backtracking
 - Sorting
     - Bubble
