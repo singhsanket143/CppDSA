@@ -52,7 +52,9 @@
     - Part 4 (Printing technique of recursion)
         - Maze_path print
         - Maze_path count
-        - [Addignment](/DSA/Recursion/Part%204/Assignment.md)
+        - Subsequence Print
+        - Remove occurence of X
+        - [Assignment](/DSA/Recursion/Part%204/Assignment.md)
 
 - Backtracking
 - Sorting
