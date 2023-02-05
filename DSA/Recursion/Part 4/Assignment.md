@@ -17,3 +17,9 @@ generated using the following rules and returns a Boolean value:
     -  the string begins with an 'a'
     -  each 'a' is followed by nothing or an 'a' or "bb"
     -  each "bb" is followed by nothing or an 'a'
+
+Q5: Take as input str, a string. We are concerned with all the possible ascii-
+subsequences of str. E.g. “ab” has following ascii-subsequences ``, `b`, `98`,
+`a`, `ab`, `a98`, `97`, `97b`, `9798`
+Write a recursive function which prints all possible ascii-subsequences for a
+given string (void is the return type for function).
