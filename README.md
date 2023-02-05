@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 14 (excluding TNC)
+### Problem Count - 17 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -54,6 +54,7 @@
         - Maze_path count
         - Subsequence Print
         - Remove occurence of X
+        - Letter combination of a phone number
         - [Assignment](/DSA/Recursion/Part%204/Assignment.md)
 
 - Backtracking
