@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 17 (excluding TNC)
+### Problem Count - 23 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -56,6 +56,14 @@
         - Remove occurence of X
         - Letter combination of a phone number
         - [Assignment](/DSA/Recursion/Part%204/Assignment.md)
+
+    - Part 5 (Interview Problems On Recursion)
+        - Is String Palindrome
+        - Is String Palindrome without size function
+        - Pattern Print
+        - Pattern print without a single loop or string concat
+        - Power Sum
+        - Generate Parenthesis
 
 - Backtracking
 - Sorting
