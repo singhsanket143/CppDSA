@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 23 (excluding TNC)
+### Problem Count - 32 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -40,7 +40,7 @@
         - Sum of digits recursive
         - Count binary strings without consecutive 1s
         - Frog Jump
-        - [Assignment](DSA/Recursion/Part%202/Assignment.md)
+        - [Assignment](/DSA/2.%20Recursion/Part%202/Assignment.md)
 
     - Part 3 (Array based recursion)
         - Sum of array
@@ -63,7 +63,20 @@
         - Pattern Print
         - Pattern print without a single loop or string concat
         - Power Sum
-        - Generate Parenthesis
+        - Generate Parenthesis  
+    
+    - Part 6 (Harder recursion Problems)
+        - Friends pairing
+        - Tiling
+        - Acode
+        - Family Structure
+
+- Sorting 
+    - Bubble
+    - selection
+    - insertion
+    - merge sort
+    - inv cnt
 
 - Backtracking
 - Sorting
