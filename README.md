@@ -47,7 +47,7 @@
         - Element existing in array or not
         - Is Array arranged in asc order ?
         - Sum of digits of a string
-        - [Assignment](/DSA/Recursion/Part%203/Assignment.md)
+        - [Assignment](/DSA/2.%20Recursion/Part%203/Assignment.md)
 
     - Part 4 (Printing technique of recursion)
         - Maze_path print
