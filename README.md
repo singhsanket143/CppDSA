@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 36 (excluding TNC)
+### Problem Count - 37 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -109,6 +109,7 @@
 - Segment trees
 - Graphs
 - Dynamic programming
+    - Fibonacci
 - String algorithms
 - Maths and combinatorics
 - Few more..
