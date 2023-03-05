@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 32 (excluding TNC)
+### Problem Count - 36 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -77,6 +77,10 @@
     - insertion
     - merge sort
     - inv cnt
+    - Partition
+    - Quick sort
+    - Quick select
+    - median of medians
 
 - Backtracking
 - Sorting
