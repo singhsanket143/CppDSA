@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 37 (excluding TNC)
+### Problem Count - 44 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -81,6 +81,22 @@
     - Quick sort
     - Quick select
     - median of medians
+
+
+- DP
+    - Part 1
+        - Fib TD
+        - FIB BU
+        - Fib BU Space Opt
+        - House robber TD
+        - House robber BU
+        - House robber 2
+        - Vacation
+
+        - HW : 
+            - try BU for house robber 2
+            - https://leetcode.com/problems/climbing-stairs/
+            - https://leetcode.com/problems/min-cost-climbing-stairs/
 
 - Backtracking
 - Sorting
