@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 54 (excluding TNC)
+### Problem Count - 55 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -109,6 +109,7 @@
         - frog jump 2 - TD BU
         - Dice combination TD
         - Dice combination BU
+        - https://leetcode.com/problems/climbing-stairs/
         - HW: 
             - https://leetcode.com/problems/partition-array-for-maximum-sum/
             - https://www.codechef.com/problems/JCWC02
