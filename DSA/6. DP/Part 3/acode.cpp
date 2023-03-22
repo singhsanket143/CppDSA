@@ -53,15 +53,37 @@ ll f_td(std::string &num, int i) {
 }
 
 
-int main() {
+ll f_bu(std::string &num) {
+    if(num.size() == 1) return 1;
     dp.clear();
-    dp.resize(50005, -1);
+    dp.resize(5005, 0);
+    dp[0] = 1;
+    dp[1] = (num[1] - '0' > 0); // 101 -> [1, 1]
+    if((num[0] - '0')*10 + (num[1] - '0') <= 26) {
+        dp[1]++;
+    }
+    for(int i = 2; i < num.size(); i++) {
+        if(num[i] - '0' > 0) {
+            dp[i] = dp[i-1];
+        }
+        if((num[i-1] - '0' > 0) and ((num[i-1] - '0') * 10 + (num[i] - '0') <= 26)) {
+            dp[i] += dp[i-2];
+        }
+    }
+    return dp[num.size() - 1];
+}
+
+
+
+int main() {
+    // dp.clear();
+    // dp.resize(50005, 0);
     std::string num;
     std::cin>>num;
     while(num[0] != '0') {
-        std::cout<<f_td(num, num.size() - 1)<<"\n";
-        dp.clear();
-        dp.resize(50005, -1);
+        std::cout<<f_bu(num)<<"\n";
+        // dp.clear();
+        // dp.resize(50005, -1);
         std::cin>>num;
     }
     

@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 44 (excluding TNC)
+### Problem Count - 54 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -96,6 +96,24 @@
         - HW : 
             - try BU for house robber 2
             - https://leetcode.com/problems/climbing-stairs/
+            - https://leetcode.com/problems/min-cost-climbing-stairs/
+
+    - Part 2
+        - Acode Recursive
+        - Acode TD
+        - Acode BU
+        - https://leetcode.com/problems/decode-ways/
+
+    - Part 4 
+        - frog jump 1 - TD BU
+        - frog jump 2 - TD BU
+        - Dice combination TD
+        - Dice combination BU
+        - HW: 
+            - https://leetcode.com/problems/partition-array-for-maximum-sum/
+            - https://www.codechef.com/problems/JCWC02
+            - https://www.codechef.com/INOIPRAC/problems/INOI1301
+            - https://leetcode.com/problems/maximum-product-subarray/description/
             - https://leetcode.com/problems/min-cost-climbing-stairs/
 
 - Backtracking
