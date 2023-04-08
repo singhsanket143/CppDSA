@@ -17,7 +17,7 @@
 
 ## DSA
 
-### Problem Count - 55 (excluding TNC)
+### Problem Count - 59 (excluding TNC)
 
 - Time and Space Complexity
 
@@ -116,6 +116,22 @@
             - https://www.codechef.com/INOIPRAC/problems/INOI1301
             - https://leetcode.com/problems/maximum-product-subarray/description/
             - https://leetcode.com/problems/min-cost-climbing-stairs/
+
+    - Part 5
+        - Min coin change TD
+        - Min coin change BU
+        - Removing Digits TD
+        - Removing Digtis BU
+
+        HW
+            - https://cses.fi/problemset/task/1635
+            - https://leetcode.com/problems/4-keys-keyboard/
+
+    - Part 6
+        - unique_paths
+        - unique_paths2
+        - Edit distance td
+        - Edit distance bu
 
 - Backtracking
 - Sorting
